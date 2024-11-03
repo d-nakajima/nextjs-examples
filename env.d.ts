@@ -10,6 +10,7 @@ declare global {
       NEXT_PUBLIC_FIREBASE_APP_ID: string;
       NEXT_PUBLIC_USE_FIREBASE_EMULATOR: string;
       ADMIN_SDK_SERVICE_ACCOUNT_KEY: string;
+      AUTH_COOKIE_SIGNATURE_KEY: string;
     }
   }
 }
